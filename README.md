@@ -30,3 +30,4 @@ Step 8: Now we have to push, before push we need to check the Branch we are on[g
 
 Step 9 : Again check the branch to make sure branch name is changed Master to Main[git branch]. After confirming that we are on Main branch, we are ready to push normally.</br>
         COMMAND : git push origin main
+
